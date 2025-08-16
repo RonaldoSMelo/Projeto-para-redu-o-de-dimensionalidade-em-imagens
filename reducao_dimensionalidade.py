@@ -6,8 +6,8 @@ Implementação em Python para transformar uma imagem colorida para:
 1. Níveis de cinza (0 a 255)
 2. Binarizada (0 e 255) - preto e branco
 
-Autor: [Seu Nome]
-Data: [Data Atual]
+Autor: [Ronaldo Melo]
+Data: [16/08/2025]
 """
 
 import math
